@@ -1,6 +1,6 @@
 # Request Header Parser Microservice
 
-Simple Node.js application that retrieves some info from an HTTP request. To use it just click in the link on the served webpage, or write the equivalent URL in your browser.
+Simple Node.js Header Parser Microservice made for freeCodeCamp's Back End Development and APIs course. Just click on the link or write the equivalent URL and it'll send you some information about your HTTP request headers in JSON format.
 
 Port to use can be edited in .env file, it's 3000 by default.
 
