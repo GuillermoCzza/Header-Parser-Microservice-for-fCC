@@ -5,3 +5,5 @@ Simple Node.js Header Parser Microservice made for freeCodeCamp's Back End Devel
 Port to use can be edited in .env file, it's 3000 by default.
 
 Made from freeCodeCamp's boilerplate code for the Request Header Parser Microservice (https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice).
+
+(Frontend is unmodified from the one provided by freeCodeCamp for testing)
